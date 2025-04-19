@@ -1,6 +1,7 @@
-Raycast installation is reading from the `dist` folder.
+- Run `npm run build` to get the build inside `dist`.
+- Raycast installation is reading from the `dist` folder.
 
-# Myna UI Icons
+### Myna UI Icons
 
 1180+ beautifully crafted open source icons for your next project.
 
